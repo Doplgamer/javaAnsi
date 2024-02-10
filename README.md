@@ -39,8 +39,8 @@ Normal Text
 - `UNDERLINE_OFF`: Disables underlined text.
 - `BLINK_ON`: Enables blinking text.
 - `BLINK_OFF`: Disables blinking text.
-- `REVERSE_ON`: Enables reverse video (swaps foreground and background colors).
-- `REVERSE_OFF`: Disables reverse video.
+- `REVERSE_ON`: Enables reverse text (swaps foreground and background colors).
+- `REVERSE_OFF`: Disables reverse text.
 - `INVISIBLE_ON`: Makes text invisible (useful for hiding sensitive information).
 - `INVISIBLE_OFF`: Disables invisible text.
 - `STRIKETHROUGH_ON`: Enables strikethrough text.
